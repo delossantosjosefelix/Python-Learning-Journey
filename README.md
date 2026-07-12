@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algoritmos Estructurados — Proyectos Organizados
 
 Esta es la reorganización de tus ejercicios y proyectos del curso. No se tocó
@@ -43,3 +44,7 @@ explicación en la parte de arriba de los ejercicios que no tenían uno.
   (a la función `mostrar_estudiantes()` de la línea 54 le falta los dos
   puntos `:` al final). No se corrigió porque pediste no tocar la lógica,
   pero te lo dejo anotado por si luego quieres arreglarlo tú mismo.
+=======
+# Python-Learning-Journey
+Exercises and terminal-based Python projects covering programming fundamentals, problem-solving, and core language concepts.
+>>>>>>> e1332a9fe8a101cc62d8b60b52d20b5b4a29e922
